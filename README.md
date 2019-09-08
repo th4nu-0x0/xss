@@ -17,3 +17,13 @@ READING MATERIALS :
    4. https://hackedu.io (HACKEDU)
    5. http://www.dvwa.co.uk (DVWA)
    6. 
+
+
+
+   
+    Xssed.com
+    Reddit XSS - /r/xss
+    Punkspider
+    xss.cx
+    xssposed.org
+    twitter searching
