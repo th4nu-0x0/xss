@@ -2,9 +2,10 @@
 
 READING MATERIALS :
  1. https://excess-xss.com
- 2. https://www.owasp.org/index.php/Cross-site_Scripting_(XSS) (OWASP)
- 3. https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/ (GOOGLE APPLICATION SECURITY)
- 4. 
+ 2. https://www.exploit-db.com/docs/english/18895-complete-cross-site-scripting-walkthrough.pdf (Exploit-db)
+ 3. https://www.owasp.org/index.php/Cross-site_Scripting_(XSS) (OWASP)
+ 4. https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/ (GOOGLE APPLICATION SECURITY)
+ 5. 
  
  
  
